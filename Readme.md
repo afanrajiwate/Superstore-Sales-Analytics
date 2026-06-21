@@ -170,7 +170,7 @@ Superstore-Sales-Analytics/
 ## Dashboard Preview
 
 ```markdown
-[dashboard](https://github.com/afanrajiwate/Superstore-Sales-Analytics/blob/main/dashboard/Screenshot%202026-06-22%20022953.png)
+![Dashboard](dashboard/Screenshot%202026-06-22%20022953.png)
 ```
 ---
 

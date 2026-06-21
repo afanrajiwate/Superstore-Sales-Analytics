@@ -170,7 +170,8 @@ Superstore-Sales-Analytics/
 ## Dashboard Preview
 
 ```markdown
-![Dashboard](dashboard/sales_dashboard.png) ```
+![Dashboard](dashboard/sales_dashboard.png)
+ ```
 ---
 
 ## Conclusion

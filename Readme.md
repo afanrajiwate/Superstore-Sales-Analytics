@@ -169,12 +169,8 @@ Superstore-Sales-Analytics/
 
 ## Dashboard Preview
 
-Add your dashboard image below:
-
 ```markdown
-![Dashboard](dashboard/sales_dashboard.png)
-```
-
+dashboard
 ---
 
 ## Conclusion
